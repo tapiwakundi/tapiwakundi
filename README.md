@@ -2,7 +2,7 @@
 
 I'm Tapiwa Kundishora, and I'm an aspiring full-stack mobile and web developer. I love learning new technologies and keeping up with industry development standards. Creating useful applications that help make people's lives just a little bit easier or convenient is my biggest motivator, and I strive to write better code today than I did yesterday 😃
 
-:mailbox: Reach me out!
+:mailbox: Reach out to me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@tapiwa_kundi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tapiwa_kundi)](https://twitter.com/tapiwa_kundi) 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) -->
@@ -25,8 +25,7 @@ I'm Tapiwa Kundishora, and I'm an aspiring full-stack mobile and web developer. 
 ### Personal Website
 [![Mail Badge](https://img.shields.io/badge/-tapiwakundi.com-c0392b?style=flat&labelColor=c0392b&logo=google-chrome&logoColor=blue)](tapiwakundi.com)
 
-<br />
-<br />
+
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
@@ -53,13 +52,6 @@ My misson here is very simple, using my knowledge of programming to solve proble
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         4 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
 <!--END_SECTION:waka-->
 
 #### Github Stats
