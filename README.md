@@ -26,10 +26,10 @@ I'm Tapiwa Kundishora, and I'm an aspiring full-stack mobile and web developer. 
 [![Mail Badge](https://img.shields.io/badge/-tapiwakundi.com-c0392b?style=flat&labelColor=c0392b&logo=google-chrome&logoColor=blue)](tapiwakundi.com)
 
 
-
+<!-- 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
+
 
 
 #### Profile Visits 
@@ -38,7 +38,7 @@ I'm Tapiwa Kundishora, and I'm an aspiring full-stack mobile and web developer. 
 
 <details>
 <summary>
-  More stuff about me
+  More about me
 </summary>
 
 <br >
@@ -49,7 +49,7 @@ I love making applications because it's extremely fulfilling to take ideas we ha
 
 My misson here is very simple, using my knowledge of programming to solve problems.
 
-#### Coding Stats
+#### Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
