@@ -53,7 +53,7 @@ My misson here is very simple, using my knowledge of programming to solve proble
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   7 hrs 41 mins   █████████████████████████   99.70 % 
 ```
 <!--END_SECTION:waka-->
 
