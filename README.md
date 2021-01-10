@@ -53,11 +53,11 @@ My misson here is very simple, using my knowledge of programming to solve proble
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   47 hrs 36 mins  ███████████████████████▒░   92.77 % 
-CSS          1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-JSON         47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Git Config   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-HTML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JavaScript   50 hrs 57 mins  ███████████████████████▓░   94.07 % 
+JSON         45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+CSS          36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Git Config   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+HTML         20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
 
