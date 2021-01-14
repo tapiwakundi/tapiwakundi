@@ -53,11 +53,9 @@ My misson here is very simple, using my knowledge of programming to solve proble
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   25 hrs 11 mins  ███████████████████████▒░   93.27 % 
-JSON         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Git Config   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Text         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+JavaScript   18 hrs 53 mins  ████████████████████████▓   99.26 % 
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+CSV          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
