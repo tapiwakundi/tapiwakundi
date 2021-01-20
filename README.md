@@ -53,8 +53,7 @@ My misson here is very simple, using my knowledge of programming to solve proble
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   14 mins         ██████████████████████░░░   88.40 % 
-JSON         1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+JavaScript   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
