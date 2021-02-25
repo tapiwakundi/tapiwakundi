@@ -53,7 +53,8 @@ My misson here is very simple, using my knowledge of programming to solve proble
 
 <!--START_SECTION:waka-->
 ```text
-
+Swift   38 mins         ███████████████████▒░░░░░   77.83 % 
+XML     11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.17 % 
 ```
 <!--END_SECTION:waka-->
 
