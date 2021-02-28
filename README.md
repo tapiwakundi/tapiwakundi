@@ -53,8 +53,9 @@ My misson here is very simple, using my knowledge of programming to solve proble
 
 <!--START_SECTION:waka-->
 ```text
-Swift   38 mins         ███████████████████▒░░░░░   77.72 % 
-XML     11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.13 % 
+Swift   1 hr 34 mins    ██████████████████████░░░   88.48 % 
+XML     11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
 
