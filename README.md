@@ -53,8 +53,7 @@ My misson here is very simple, using my knowledge of programming to solve proble
 
 <!--START_SECTION:waka-->
 ```text
-Swift   55 mins         ████████████████████████▒   97.93 % 
-Other   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
